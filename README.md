@@ -1,5 +1,5 @@
 # sorpresa-para-karol
-nn
+
 [index.html](https://github.com/user-attachments/files/24180290/index.html)
 <!DOCTYPE html>
 <html lang="es">
